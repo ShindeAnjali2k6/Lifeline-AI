@@ -42,22 +42,6 @@ It transforms confusion into clarity by:
 
 ---
 
-## 🖥️ UI Preview
-
-### 🔐 Login Page
-![Login](screenshots/login.png)
-
-### 🏠 Landing Page
-![Landing](screenshots/index.png)
-
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 🗺️ Map & Hospital View
-![Map](screenshots/map.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
