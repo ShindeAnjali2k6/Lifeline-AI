@@ -1,82 +1,47 @@
-# 🚑 LifeLine AI – Real-Time Healthcare Decision System
+# 🚑 LifeLine AI
+
+> Turning emergency confusion into instant medical clarity ⚡
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Tech](https://img.shields.io/badge/Built%20With-JavaScript-blue)
+![Tech](https://img.shields.io/badge/Tech-JavaScript-blue)
 ![API](https://img.shields.io/badge/API-OpenStreetMap-green)
-![UI](https://img.shields.io/badge/UI-Modern%20Dashboard-purple)
+![UI](https://img.shields.io/badge/UI-Dashboard-purple)
 
 ---
 
-## 🧠 Overview
+## 🧠 What is it?
 
-**LifeLine AI** is an intelligent healthcare decision support system that helps users make the **right medical decisions in real-time** during emergencies.
+**LifeLine AI** is a real-time healthcare decision system that helps users:
 
-It transforms confusion into clarity by:
-- analyzing symptoms  
-- detecting risk levels  
-- suggesting the best hospitals nearby  
-
----
-
-## ✨ Key Features
-
-🚨 **Smart Symptom Analysis**  
-- Detects severity of user symptoms  
-- Classifies risk: Low / Moderate / High / Critical  
-
-📍 **Real-Time Hospital Finder**  
-- Uses OpenStreetMap API  
-- Finds nearby hospitals based on location  
-
-🗺️ **Interactive Map System**  
-- Displays hospitals on live map  
-- Shows user location + nearby facilities  
-
-🧠 **Decision Engine**  
-- Recommends best hospital  
-- Explains *“Why this hospital?”*  
-
-🩸 **Blood Availability System**  
-- Displays blood group availability  
-- Helps in emergency situations  
+✔ Analyze symptoms  
+✔ Detect risk level  
+✔ Find the right hospital instantly  
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **APIs:** OpenStreetMap (Overpass API)  
-- **Maps:** Leaflet.js  
-- **Browser APIs:** Geolocation  
-
----
-
-## ⚙️ How It Works
-
-1. User enters symptoms  
-2. System analyzes severity  
-3. Fetches nearby hospitals  
-4. Displays best match  
-5. Provides actionable recommendation  
+- 🧠 Smart Symptom Analysis  
+- 📍 Nearby Hospital Detection  
+- 🗺️ Live Map with Location  
+- ⚡ Decision Engine (“Why this hospital?”)  
+- 🩸 Blood Availability System  
 
 ---
 
-## ⚠️ Disclaimer
+## ⚙️ Tech
 
-This project is built for **educational purposes only**  
-and does not replace professional medical advice.
+HTML • CSS • JavaScript  
+OpenStreetMap API • Leaflet.js • Geolocation  
 
 ---
 
-## 🚀 Future Enhancements
+## ⚠️ Note
 
-- AI-based symptom prediction  
-- Real-time doctor availability  
-- Emergency alert system  
-- Cloud-based data integration  
+For educational use only — not a medical diagnosis tool.
 
 ---
 
 ## 👩‍💻 Author
 
-**Shinde Anjali**  
+**Shinde Anjali** 
