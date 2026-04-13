@@ -1,47 +1,60 @@
-# 🚑 LifeLine AI
+# 🚑 LifeLine AI  
+### ⚡ Real-Time Emergency Decision System
 
-> Turning emergency confusion into instant medical clarity ⚡
+> *From panic → to the right medical decision in seconds.*
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Tech](https://img.shields.io/badge/Tech-JavaScript-blue)
+![Built](https://img.shields.io/badge/Built%20With-JavaScript-blue)
 ![API](https://img.shields.io/badge/API-OpenStreetMap-green)
-![UI](https://img.shields.io/badge/UI-Dashboard-purple)
+![UI](https://img.shields.io/badge/UI-Premium-purple)
 
 ---
 
-## 🧠 What is it?
+## 🧠 Why LifeLine AI?
 
-**LifeLine AI** is a real-time healthcare decision system that helps users:
+In emergencies, people don’t fail because of lack of hospitals…  
+they fail because of **wrong decisions under pressure**.
 
-✔ Analyze symptoms  
-✔ Detect risk level  
-✔ Find the right hospital instantly  
-
----
-
-## ✨ Features
-
-- 🧠 Smart Symptom Analysis  
-- 📍 Nearby Hospital Detection  
-- 🗺️ Live Map with Location  
-- ⚡ Decision Engine (“Why this hospital?”)  
-- 🩸 Blood Availability System  
+**LifeLine AI solves that.**
 
 ---
 
-## ⚙️ Tech
+## 🚀 What it does
 
-HTML • CSS • JavaScript  
-OpenStreetMap API • Leaflet.js • Geolocation  
-
----
-
-## ⚠️ Note
-
-For educational use only — not a medical diagnosis tool.
+- 🧠 Understands user symptoms  
+- ⚠️ Detects risk level instantly  
+- 📍 Finds nearby hospitals in real-time  
+- 🗺️ Visualizes everything on a live map  
+- 🎯 Recommends the *best* option (with explanation)
 
 ---
 
-## 👩‍💻 Author
+## ✨ Core Highlights
 
-**Shinde Anjali** 
+✔ Smart Triage Engine  
+✔ Real-Time Location + Hospital Data  
+✔ Interactive Map (Leaflet.js)  
+✔ Decision Intelligence (“Why this hospital?”)  
+✔ Blood Availability System  
+
+---
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **APIs:** OpenStreetMap (Overpass API)  
+- **Maps:** Leaflet.js  
+- **Browser API:** Geolocation  
+
+---
+
+## ⚠️ Disclaimer
+
+This is a **decision-support system**, not a medical diagnosis tool.
+
+---
+
+## 👩‍💻 Built by
+
+**Shinde Anjali**  
