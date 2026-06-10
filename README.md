@@ -29,26 +29,20 @@ LifeLine AI helps users make faster emergency healthcare decisions by analyzing 
 
 ## 📸 Screenshots
 
-### Home Page
-
+### Home Dashboard
 ![Home](screenshots/home.png)
 
-### Risk Assessment
+### Symptom Analysis AI
+![Symptoms](screenshots/symptom-analysis.png)
 
-![Risk Assessment](screenshots/risk-assessment.png)
+### Decision Engine
+![Decision](screenshots/decision-engine.png)
 
-### Hospital Recommendations
-
-![Hospital Recommendation](screenshots/hospital-recommendation.png)
-
-### Live Map View
-
-![Map View](screenshots/map-view.png)
+### Hospital Finder
+![Hospitals](screenshots/find-hospitals.png)
 
 ### Blood Availability
-
-![Blood Availability](screenshots/blood-availability.png)
-
+![Blood](screenshots/blood-availability.png)
 ## ⚙️ How It Works
 
 1. User enters symptoms.
